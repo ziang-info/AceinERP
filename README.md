@@ -30,7 +30,7 @@ CPU：1核
 系统：CentOS 7.4 64位(推荐)
 价格：366元/年 933.3 元/三年
 ```
-<a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=krmi8o15">查看服务器详情</a>
+<a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=krmi8o15" target="_blank">查看服务器详情</a>
 
 标准级配置
 ```
@@ -41,7 +41,7 @@ CPU：2核
 系统：CentOS 7.4 64位(推荐)
 价格：936元/年 2386.8 元/三年
 ```
-<a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=krmi8o15">查看服务器详情</a>
+<a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=krmi8o15" target="_blank">查看服务器详情</a>
 
 
 ## 项目介绍
@@ -119,7 +119,7 @@ umeditor：http://ueditor.baidu.com/website/umeditor.html
 
 Mysql：https://www.mysql.com/
 
-微信公众号、微信小程序 https://mp.weixin.qq.com
+
 
 版权所有Copyright © 2009-2021 by AceinERP (https://www.acein.net)
 
