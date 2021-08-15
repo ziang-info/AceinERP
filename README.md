@@ -15,12 +15,13 @@
 </p>
 
 ### 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！
+
 ### github地址：https://github.com/ziang-info/AceinERP
 ### Gitee地址: https://gitee.com/ziang-info/AceinERP
 ### 帮助文档：https://www.acein.net
-### 本项目还在不断开发完善中,如有建议或问题请官方论坛反馈，地址:https://www.acein.net
+### 本项目还在不断开发完善中,如有建议或问题请官方网站反馈，地址:https://www.acein.net
 
-## AceinERP推荐服务器配置
+## AceinERP（自部署）推荐服务器配置
 入门级配置
 ```
 CPU：1核
@@ -64,7 +65,7 @@ CPU：2核
     
    AceinERP的优势:快速积累客户、会员数据分析、智能转化客户、有效提高销售、会员维护；
 
-   AceinERP下面的应用支持二次开发，单独部署。
+   AceinERP下面的应用支持二次开发，独立自部署。
    
 
 ## 功能
@@ -75,52 +76,27 @@ CPU：2核
 
 
 ##  演示地址
-   体验:[<a href='https://acein.net/user/index/demo1/123456/demo.do' target="_blank"> AceinERP </a>]       
-
+   体验:[<a href='https://acein.net/user/index/demo1/123456/demo.do' target="_blank"> AceinCRM </a>]       
+    体验:[<a href='https://m.acein.net' target="_blank"> Acein记账（移动版） </a>]  
    账号：demo1
    密码：123456
 
+    官网线下定制服务版：https://www.acein.net
 
 
 
 
-
-官网线下定制服务版：https://www.acein.net
-
-
-
-
-##问题反馈
+## 问题反馈
 
 在使用中有任何问题，请使用以下联系方式联系我们
 
-QQ群: 329741960 
 Email: support@acein.net
 
+QQ群: 329741960 
 
 
 
 
+## 版权
 
-## 特别鸣谢
-感谢以下的项目,排名不分先后
-
-jQuery：http://jquery.com
-
-Vue：https://cn.vuejs.org/
-
-font-awesome： https://fontawesome.com/?from=io
-
-animate：https://www.animate.co.jp/
-
-requirejs： http://requirejs.org/
-
-umeditor：http://ueditor.baidu.com/website/umeditor.html
-
-Mysql：https://www.mysql.com/
-
-
-
-版权所有Copyright © 2009-2021 by AceinERP (https://www.acein.net)
-
-All rights reserved。
+版权所有 All rights reserved Copyright © 2009-2021 by <a href='https://www.acein.net' target="_blank"> Acein ERP </a> 
