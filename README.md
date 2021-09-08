@@ -60,7 +60,7 @@ CPU：2核
 
    • 便捷的财务记账功能
 
-   • 冰心CRM是「上海子昂信息」旗下ERP产品品牌
+   • AceinCRM是「上海子昂信息」旗下ERP产品品牌
 
     
    AceinERP的优势:快速积累客户、会员数据分析、智能转化客户、有效提高销售、会员维护；
@@ -76,15 +76,10 @@ CPU：2核
 
 
 ##  演示地址
-   体验:[<a href='https://acein.net/user/index/demo1/123456/demo.do' target="_blank"> AceinCRM </a>]       
+   体验:[<a href='https://acein.net/user/index/demo1/123456/demo.do' target="_blank"> AceinCRM客户管理 </a>]
     体验:[<a href='https://m.acein.net' target="_blank"> Acein记账（移动版） </a>]  
    账号：demo1
    密码：123456
-
-    官网线下定制服务版：https://www.acein.net
-
-
-
 
 ## 问题反馈
 
