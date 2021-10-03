@@ -18,6 +18,7 @@
 
 ### github地址：https://github.com/ziang-info/AceinERP
 ### Gitee地址: https://gitee.com/ziang-info/AceinERP
+### CSDN地址: https://codechina.csdn.net/acein/aceinerp
 ### 帮助文档：https://www.acein.net
 ### 本项目还在不断开发完善中,如有建议或问题请官方网站反馈，地址:https://www.acein.net
 
